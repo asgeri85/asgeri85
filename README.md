@@ -7,9 +7,11 @@
 </div>
 
 <p align="center">
-  <a href="iasgeri456@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" style="margin:5px;"/></a>
-      <a href="https://www.linkedin.com/in/ibrahim-asgari-/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn"/></a>
-</p>
+  <a href="iasgeri456@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/ibrahim-asgari-/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="linkedin"/></a>
+  
+ </p> 
+  
 
 <br/>
 
