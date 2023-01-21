@@ -3,7 +3,7 @@
 <br/>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&background=8D2FD600&center=true&vCenter=true&lines=I+am+Software+Engineer" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&background=8D2FD600&center=true&vCenter=true&lines=I+am+Software+Engineer" alt="Headline" />
 </div>
 
 <p align="center">
@@ -35,9 +35,18 @@ I'm
 | :-: | :-: |
 |<img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>|
 
+
+## Github Profile Summary Card
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=asgeri85&theme=nord_dark"/>
+</p>
+
 <h2 align="left">My Stats</h2>
 
 ![asgeri85's GitHub stats](https://github-readme-stats.vercel.app/api?username=asgeri85&show_icons=true&theme=react&hide=stars&count_private=true)
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=asgeri85&theme=react" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asgeri85&layout=compact&theme=react&hide=html)
 <!--
 **asgeri85/asgeri85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
