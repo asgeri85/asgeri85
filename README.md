@@ -18,7 +18,7 @@
 <h2 align="left">What am I doing?</h2>
 
 I'm
-* working as an Mobile Application Developer at [Konuşarak Öğren](https://www.konusarakogren.com/).
+* working as an Android Developer at [BTPRO Bilgi Teknolojileri A.Ş](https://www.btpro.net).
 * working on React Native and Kotlin
 * Mobile Team Lead at [Google DSC Karatekin University](https://www.linkedin.com/company/dsckaratekin/).
 
@@ -29,11 +29,20 @@ I'm
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
 |<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>|
 
+
+<h2 align="left">Version Control Systems I Use</h2>
+
+| Github | Bitbucket | Gitlab |
+| :-: | :-: | :-: |
+|<img align="center" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg" alt="bitbucket" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="bitbucket" width="40" height="40"/>|
+
+
+
 <h2 align="left">Design Tools I Use</h2>
 
-| Figma | Adobe XD |
-| :-: | :-: |
-|<img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>|
+| Figma | Adobe XD | Zeplin |
+| :-: | :-: | :-: |
+|<img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/zeplinio/zeplinio-icon.svg" alt="zeplin" width="40" height="40"/>|
 
 
 ## Github Profile Summary Card
