@@ -19,8 +19,8 @@
 
 I'm
 * working as an Android Developer at [BTPRO Bilgi Teknolojileri A.Ş](https://www.btpro.net).
-* working on React Native and Kotlin
-* Mobile Team Lead at [Google DSC Karatekin University](https://www.linkedin.com/company/dsckaratekin/).
+* working on Jetpack Compose and Kotlin
+* Android Insrructor [Software Village LLC].
 
 
 <h2 align="left">Languages and Tools I Use</h2>
