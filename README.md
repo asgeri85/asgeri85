@@ -3,12 +3,12 @@
 <br/>
 
 <div align=center>
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3500&background=8D2FD600&center=true&vCenter=true&lines=I+am+Software+Engineer" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&duration=4000&pause=800&color=1FF790&width=435&lines=I'm+Android+Engineer;I'm+Android+Instructor" alt="" />
 </div>
 
 <p align="center">
-  <a href="iasgeri456@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/ibrahim-asgari-/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="iasgeri456@gmail.com"><img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" alt="Gmail"/></a>
+<a href="https://www.linkedin.com/in/ibrahim-asgari-/"><img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="linkedin"/></a>
   
  </p> 
   
@@ -18,16 +18,24 @@
 <h2 align="left">What am I doing?</h2>
 
 I'm
-* working as an Android Developer at [BTPRO Bilgi Teknolojileri A.Ş](https://www.btpro.net).
+* working as an Android Engineer at [BTPRO Bilgi Teknolojileri A.Ş](https://www.btpro.net).
 * working on Jetpack Compose and Kotlin
-* Android Insrructor [Software Village LLC].
+* Android Insrructor at [Software Village LLC](https://www.instagram.com/software.village/).
+
+<h3 align="left">What did i do?</h3>
+
+
+* Android Instructor at [ATL Academy LLC](https://atlacademy.az).
+* Mobile Application Developer at [Konuşarak Öğren](https://www.konusarakogren.com).
+* Android Engineer at [Momentup Development Company](https://www.momentup.com).
+* Mobile Team Lead at [GDSC Karatekin University](https://www.linkedin.com/company/dsckaratekin/posts/?feedView=all).
 
 
 <h2 align="left">Languages and Tools I Use</h2>
 
-| Android | React Native | Firebase | Java | Kotlin |  MySql | Git | Postman |   
+| Android | Jetpack Compose| React Native | Firebase | Java | Kotlin | Git | Postman |   
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>|
+|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://github.com/user-attachments/assets/05a644d0-813a-41da-b0fb-dbd37efe9328" alt="React Native" width="40" height="40"/>|<img align="center" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>|
 
 
 <h2 align="left">Version Control Systems I Use</h2>
